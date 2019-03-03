@@ -7,7 +7,7 @@ Assuming you have Python 3.x and have pip installed, ensure 'virtualenv' is inst
 
 Clone this repo to a local directory.
 
-`C:\code> git clone https://github.com/jmasselink/excel_dateparser.git`
+`C:\code> git clone https://github.com/SurveyTools/excel_dateparser.git`
 
 Create a Python virtual environment called **excel_dateparser** where you store your necessary libraries.
  - in Windows, using command line:
